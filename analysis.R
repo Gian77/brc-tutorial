@@ -1,5 +1,5 @@
 # Set the current working directory
-setwd('~/Box Sync/brc-tutorial/')
+# setwd('~/Box Sync/brc-tutorial/')
 
 # Load ggplot library
 # If not installed, run
